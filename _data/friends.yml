@@ -2,4 +2,7 @@ group1:
   title: 测试
   description: 测试~：
   items:
-    - title: 某某某
+    - title: Molink
+    - href: https://mol.ink
+    - description: 我自己的博客
+    - img: https://molinkimagebed.oss-cn-shanghai.aliyuncs.com/molink/favicon.png
