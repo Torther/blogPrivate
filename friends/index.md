@@ -2,7 +2,7 @@
 title: 友链
 ---
 
-{% Molink %}
+{% friends:Molink %}
 
 {% link https://mol.ink Molink [aaaaaa] [img:https://molinkimagebed.oss-cn-shanghai.aliyuncs.com/molink/favicon.png] %}
 
