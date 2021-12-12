@@ -14,9 +14,9 @@ title: 友链
 
 {% link https://illl.design 杏铃の小本 一份分享教程,游戏的礼物✧(≖ ◡ ≖✿) img:https://gitee.com/hshx123/picplus/raw/master/logo.jpg %}
 
-{% link https://blog.lzw-723.xyz/ lzw-723's blog 要玩就玩得开心，这不代表我放弃 img:https://blog.lzw-723.xyz/images/avatar.png %}
+{% link https://blog.lzw-723.xyz/ lzw-723's&nbspblog 要玩就玩得开心，这不代表我放弃 img:https://blog.lzw-723.xyz/images/avatar.png %}
 
-{% link https://blog.kanri.top/ Kanri's blog 摸鱼大师 img:https://avatars.githubusercontent.com/u/63801131?v=4 %}
+{% link https://blog.kanri.top/ Kanri's&nbspblog 摸鱼大师 img:https://avatars.githubusercontent.com/u/63801131?v=4 %}
 
 {% link https://gmoe.cc 咕萌小站 「世界に忘れられた」 img:https://gmoe.cc/img/gu.jpg %}
 
