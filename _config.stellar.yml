@@ -18,7 +18,7 @@ sidebar:
     title: '[<img no-lazy height="32px" src="https://img.mol.ink/2021/LOGO.png"/>](/)' #"[config.title](/)" # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   menu:
     post: "[btn.blog](/)"
-    wiki: "[btn.wiki](/wiki/)"
+    # wiki: "[btn.wiki](/wiki/)"
     friends: "[友链](/friends/)"
     about: "[关于](/about/)"
   # Sidebar widgets
