@@ -1,6 +1,8 @@
 ---
 title: 记一次小米路由器mini刷openwrt教程
 cover: https://img.mol.ink/2021/mini_openwrt_1.png
+categories: [随便折腾]
+tags: [路由器, openwrt]
 ---
 
 ## 前言
