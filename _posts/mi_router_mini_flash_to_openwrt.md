@@ -1,4 +1,5 @@
 ---
+date: 2021/7/10 08:31:12
 title: 记一次小米路由器mini刷openwrt教程
 cover: https://img.mol.ink/2021/mini_openwrt_1.png
 categories: [随便折腾]
